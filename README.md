@@ -1,13 +1,4 @@
-# kindlegambling
-
-A touch-controlled roulette wheel for a Kindle running an Alpine Linux chroot.
-
-## Run
-
-Requires Python 3 and Tkinter:
-
-```sh
-python3 wheel.py
-```
-
-Tap the wheel to spin. Use the Quit button to close the app.
+spinning wheel where you can bet all on gray on black 
+since eink don't have colours, just get tinker python 
+and run python3 wheel.py,
+made for Kindle Paperwhite 4 ( gen 10 )
